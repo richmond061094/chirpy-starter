@@ -3,7 +3,6 @@
 icon: far fa-file-alt
 order: 1
 ---
-
 # <b>Richmond Manuel</b> 
 
 * Licensed Environmental Planner
