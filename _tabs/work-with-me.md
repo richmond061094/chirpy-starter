@@ -90,3 +90,9 @@ I collaborate with organizations seeking evidence-based planning, governance sup
 If you want more than a technical report—if you need **clarity, strategy, and a data-backed framework** that connects planning to execution—I’d be glad to help.
 
 **[📧 Contact me](mailto:richmond061094@gmail.com)** to begin the conversation.
+
+## <b>Contact Details</b>
+
+* +63997 123 3142 - Viber/Whatsapp/Telegram
+* richmond061094@gmail.com
+* [LinkedIn Profile](https://www.linkedin.com/in/richmondmanuel){:target="_blank"}
