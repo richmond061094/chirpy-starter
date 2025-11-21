@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-briefcase
-order: 2
+icon: far fa-file-alt
+order: 1
 ---
 
 # Richmond Manuel 
