@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+icon: fas fa-briefcase
+order: 2
 ---
 
 # Richmond Manuel 
@@ -120,40 +120,13 @@ A licensed **Environmental Planner** who champions **data-driven solutions** for
 
 ## Tools that I always use
 
-![HTML icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg){:width="50" height="50"}{:alt="HTML"}
-![SQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg){:width="50" height="50"}{:alt="SQL"}
-![MySQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg){:width="50" height="50"}{:alt="MySQL"}
-![PostgreSQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg){:width="50" height="50"}{:alt="PostgreSQL"}
-![Python icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){:width="50" height="50"}{:alt="Python"}
-![PHP icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg){:width="50" height="50"}{:alt="PHP"}
-![ArcGIS logo](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png){:width="50" height="50"}{:alt="ArcGIS"}
-![QGIS logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg){:width="50" height="50"}{:alt="QGIS"}
-![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png){:width="50" height="50"}{:alt="Tableau"}
-![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg){:width="50" height="50"}{:alt="Power BI"}
-![Looker Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg){:width="50" height="50"}{:alt="Looker"}
-![Ubuntu icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg){:width="50" height="50"}{:alt="Ubuntu"}
-![CentOS icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg){:width="50" height="50"}{:alt="CentOS"}
-![DBeaver icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg){:width="50" height="50"}{:alt="DBeaver"}
-![Navicat Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Navicat_Premium_v12.png){:width="50" height="50"}{:alt="Navicat"}
-![Putty icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg){:width="50" height="50"}{:alt="Putty"}
-![DataGrip icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg){:width="50" height="50"}{:alt="DataGrip"}
-![PyCharm icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg){:width="50" height="50"}{:alt="PyCharm"}
-![Google Open Refine Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/Google-refine-logo.svg){:width="50" height="50"}{:alt="Google Open Refine"}
-![VS Code icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){:width="50" height="50"}{:alt="VS Code"}
-![Jupyter Notebook icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg){:width="50" height="50"}{:alt="Jupyter Notebook"}
-![Notion icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg){:width="50" height="50"}{:alt="Notion"}
-![Trello icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg){:width="50" height="50"}{:alt="Trello"}
-![NumPy icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg){:width="50" height="50"}{:alt="NumPy"}
-![Pandas icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg){:width="50" height="50"}{:alt="Pandas"}
-![Grafana icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg){:width="50" height="50"}{:alt="Grafana"}
-![Postman icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg){:width="50" height="50"}{:alt="Postman"}
-![Powershell icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg){:width="50" height="50"}{:alt="Powershell"}
-![Jekyll icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original-wordmark.svg){:width="50" height="50"}{:alt="Jekyll"}
-![WordPress icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg){:width="50" height="50"}{:alt="WordPress"}
-![Google Cloud icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg){:width="50" height="50"}{:alt="Google Cloud"}
-![GitHub icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg){:width="50" height="50"}{:alt="GitHub"}
-![Blender icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg){:width="50" height="50"}{:alt="Blender"}
-![Canva icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg){:width="50" height="50"}{:alt="Canva"}
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ![HTML icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg){:width="50" height="50"}{:alt="HTML"} | ![SQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg){:width="50" height="50"}{:alt="SQL"} | ![MySQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg){:width="50" height="50"}{:alt="MySQL"} | ![PostgreSQL icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg){:width="50" height="50"}{:alt="PostgreSQL"} | ![Python icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg){:width="50" height="50"}{:alt="Python"} | ![PHP icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg){:width="50" height="50"}{:alt="PHP"} | ![QGIS logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/QGIS_logo_minimal.svg){:width="50" height="50"}{:alt="QGIS"} |
+| ![Tableau Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png){:width="50" height="50"}{:alt="Tableau"} | ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg){:width="50" height="50"}{:alt="Power BI"} | ![Looker Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg){:width="50" height="50"}{:alt="Looker"} | ![Ubuntu icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg){:width="50" height="50"}{:alt="Ubuntu"} | ![CentOS icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg){:width="50" height="50"}{:alt="CentOS"} | ![DBeaver icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg){:width="50" height="50"}{:alt="DBeaver"} | ![Navicat Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Navicat_Premium_v12.png){:width="50" height="50"}{:alt="Navicat"} |
+| ![Putty icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg){:width="50" height="50"}{:alt="Putty"} | ![DataGrip icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg){:width="50" height="50"}{:alt="DataGrip"} | ![PyCharm icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg){:width="50" height="50"}{:alt="PyCharm"} | ![Google Open Refine Logo](https://upload.wikimedia.org/wikipedia/commons/7/76/Google-refine-logo.svg){:width="50" height="50"}{:alt="Google Open Refine"} | ![VS Code icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg){:width="50" height="50"}{:alt="VS Code"} | ![Jupyter Notebook icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg){:width="50" height="50"}{:alt="Jupyter Notebook"} | ![Notion icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg){:width="50" height="50"}{:alt="Notion"} |
+| ![Trello icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg){:width="50" height="50"}{:alt="Trello"} | ![NumPy icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg){:width="50" height="50"}{:alt="NumPy"} | ![Pandas icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg){:width="50" height="50"}{:alt="Pandas"} | ![Grafana icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg){:width="50" height="50"}{:alt="Grafana"} | ![Postman icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg){:width="50" height="50"}{:alt="Postman"} | ![Powershell icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg){:width="50" height="50"}{:alt="Powershell"} | ![Jekyll icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original-wordmark.svg){:width="50" height="50"}{:alt="Jekyll"} |
+| ![WordPress icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg){:width="50" height="50"}{:alt="WordPress"} | ![Google Cloud icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg){:width="50" height="50"}{:alt="Google Cloud"} | ![GitHub icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg){:width="50" height="50"}{:alt="GitHub"} | ![Blender icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg){:width="50" height="50"}{:alt="Blender"} | ![Canva icon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg){:width="50" height="50"}{:alt="Canva"} | | |
 
 ---
 
